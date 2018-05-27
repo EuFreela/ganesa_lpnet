@@ -2,9 +2,9 @@
  <br><br>
 <table>
 <tr>
-  <td><img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="50%" style="margin-auto:0" ><\td>
-  <td><img src="https://s5.postimg.cc/r15h1l6mf/Logo-_Lpnet2.png" width="40%" style="margin-auto:0"><\td>
-<\tr>  
+  <td><img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="50%" style="margin-auto:0" ></td>
+  <td><img src="https://s5.postimg.cc/r15h1l6mf/Logo-_Lpnet2.png" width="40%" style="margin-auto:0"></td>
+</tr>  
 </table>
     <br><br>
  
