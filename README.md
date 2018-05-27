@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## GANESA
 
-You can use the [editor on GitHub](https://github.com/EuFreela/ganesa_lpnet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nome fantasia de uma empresa que vende soluções para aplicações voltadas para sistemas computacionais.
+<img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" height="20%" width="20%" align="center">
 
 ### Markdown
 
