@@ -1,11 +1,12 @@
 ## LPNET ERP
-
+ <br><br>
 <table>
 <tr>
-  <td><img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="50%" style="margin-auto:0"><td>
-  <td><img src="https://s5.postimg.cc/r15h1l6mf/Logo-_Lpnet2.png" width="40%" style="margin-auto:0"><td>
-<tr>  
+  <td><img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="50%" style="margin-auto:0" ><\td>
+  <td><img src="https://s5.postimg.cc/r15h1l6mf/Logo-_Lpnet2.png" width="40%" style="margin-auto:0"><\td>
+<\tr>  
 </table>
+    <br><br>
  
 **LPNET ERP** é um sistema de gerenciamento de produtos, equipamentos para manuenção e planos de banda larga. Este sistema encontra-se na release um, versão zero dois ano dois mil e dezoito - rv1.11.2018 - Sensitive Case. Este modelo encontra-se como Backend para soluções web.
 
