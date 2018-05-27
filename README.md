@@ -6,6 +6,8 @@
 
 Este sistema foi desenvolvido pela **GANESA Desenvolvimento de Sistemas** cujo proprietário é Lameck F. Todos os direitos reservados à produção de código para sistemas computacionais.
 
+***obs: Esta versão acompanha o código compressado***
+
 [Site](https://eufreela.github.io/ganesa_lpnet/)
 
 **MD5:** A5163885BCB45F8A9CAB5765771D39EA</br>
