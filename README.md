@@ -1,21 +1,18 @@
 ## LPNET ERP
 
-<img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" height="20%" width="20%" align="center">
+<table>
+<tr>
+  <td><img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="50%" style="margin-auto:0"><td>
+  <td><img src="https://s5.postimg.cc/r15h1l6mf/Logo-_Lpnet2.png" width="40%" style="margin-auto:0"><td>
+<tr>  
+</table>
+ 
+**LPNET ERP** é um sistema de gerenciamento de produtos, equipamentos para manuenção e planos de banda larga. Este sistema encontra-se na release um, versão zero dois ano dois mil e dezoito - rv1.11.2018 - Sensitive Case. Este modelo encontra-se como Backend para soluções web.
 
-**LPNET ERP** é um sistema de gerenciamento de produtos, equipamentos para manuenção e planos de banda larga. Este sistema encontra-se na release um, versão zero dois ano dois mil e dezoito - rv1.11.2018 - Sensitive Case. Este modelo encontra-se como Backend para soluçoes web.
+Este sistema foi desenvolvido pela GANESA Desenvolvimento de Sistema cujo proprietário é Lameck F. Todos os direitos reservados à produção de código para sistemas computacionais.
 
-Este sistema foi desenvolvido pela GANESA Desenvolvimento de Sistema. Todos os direitos reservados à produção de código para sistemas computacionais.
+[Site](https://eufreela.github.io/ganesa_lpnet/)
 
-
-[Site](https://eufreela.github.io/ganesa_lpnet/) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EuFreela/ganesa_lpnet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<hr>
+Este sistema foi feito sob encomenda para LPNET, amigos de uma cidade no interior de minas, para gestão de suas atividades com informática para a região que inclui a prestação de serviços em computadores e serviços de internet, venda de produtos e gestão de tarefas. O que posso  publicar é o manual que poderá estar na wiki.
+Este sistema poderá ser apresentado, somente e unicamente, em razão de entrevista como parte do meu portifólio. Este sistema trata-se de um backend.
