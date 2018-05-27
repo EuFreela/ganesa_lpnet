@@ -1,24 +1,16 @@
 ## GANESA
 
 Nome fantasia de uma empresa que vende soluções para aplicações voltadas para sistemas computacionais.
+<br><br>
 <img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" height="20%" width="20%" align="center">
 
-### Markdown
+### LPNT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+LPNET ERP é um sistema de gerenciamento de produtos, equipamentos para manuenção e planos de banda larga. Este sistema encontra-se na release um, versão zero dois ano dois mil e dezoito - rv1.11.2018 - Sensitive Case. Este modelo encontra-se como Backend para soluçoes web.
 
-```markdown
-Syntax highlighted code block
+Este sistema foi desenvolvido pela GANESA Desenvolvimento de Sistema. Todos os direitos reservados à produção de código para sistemas computacionais.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
