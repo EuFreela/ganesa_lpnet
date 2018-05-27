@@ -8,6 +8,12 @@ Este sistema foi desenvolvido pela GANESA Desenvolvimento de Sistema cujo propri
 
 [Site](https://eufreela.github.io/ganesa_lpnet/)
 
+<p>**MD5:** A5163885BCB45F8A9CAB5765771D39EA</p>
+<p>**SHA-1:** 68590971074C77F6C6140F9EEDCD3B6280EAB9F0</p>
+<p>**SHA-256:** CAFDC3276F758930A86B68A637C0B3CB6FD9877D5293E289A0649F4C53E6E8D4</p>
+<p>**RIPEND:** 7FD87FFC660BF9DBBBFF513432C26E2328C5D98C</p>
+
+
 <hr>
 Este sistema foi feito sob encomenda para LPNET, amigos de uma cidade no interior de minas, para gestão de suas atividades com informática para a região que inclui a prestação de serviços em computadores e serviços de internet, venda de produtos e gestão de tarefas. O que posso  publicar é o manual que poderá estar na wiki.
 Este sistema poderá ser apresentado, somente e unicamente, em razão de entrevista como parte do meu portifólio. Este sistema trata-se de um backend.
