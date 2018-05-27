@@ -4,7 +4,7 @@
  
 **LPNET ERP** é um sistema de gerenciamento de produtos, equipamentos para manuenção e planos de banda larga. Este sistema encontra-se na release um, versão onze ano dois mil e dezoito - rv1.11.2018 - Sensitive Case. Este modelo encontra-se como Backend para soluções web.
 
-Este sistema foi desenvolvido pela GANESA Desenvolvimento de Sistema cujo proprietário é Lameck F. Todos os direitos reservados à produção de código para sistemas computacionais.
+Este sistema foi desenvolvido pela **GANESA Desenvolvimento de Sistemas** cujo proprietário é Lameck F. Todos os direitos reservados à produção de código para sistemas computacionais.
 
 [Site](https://eufreela.github.io/ganesa_lpnet/)
 
