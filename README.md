@@ -12,4 +12,4 @@ Este sistema foi desenvolvido pela GANESA Desenvolvimento de Sistema cujo propri
 Este sistema foi feito sob encomenda para LPNET, amigos de uma cidade no interior de minas, para gestão de suas atividades com informática para a região que inclui a prestação de serviços em computadores e serviços de internet, venda de produtos e gestão de tarefas. O que posso  publicar é o manual que poderá estar na wiki.
 Este sistema poderá ser apresentado, somente e unicamente, em razão de entrevista como parte do meu portifólio. Este sistema trata-se de um backend.
 <br><br>
-<img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="20%" style="margin-auto:0" >
+<img src="https://s5.postimg.cc/8x2ghebnb/ganesha.png" width="5%" style="margin-auto:0" >
